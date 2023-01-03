@@ -19,7 +19,7 @@ Returns: Neutral
 
 # Note
 To run this cmdlet in powershell you must 
-1. Set your Execution Policy to 'RemoteSigned' by this command 
-   Set-ExecutionPolicy RemoteSigned
+1. Set your Execution Policy to "RemoteSigned" by this command 
+   "Set-ExecutionPolicy RemoteSigned"
 2. Use Dot Sourcing when loading the function.
    When referencing the file use two dots. i.e. (. .\Get-MarketSentiment.ps1) this will allow you to use the cmdlet like any other cmdlet in the current session.
